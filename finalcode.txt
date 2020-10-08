@@ -65,7 +65,7 @@ void motor_control()
   else if(s=="BBBBBB")
      back();
 
-  else if(s=="BBWWWW")    //common case for both tracks
+  else if(s=="BBWWWW")
       right();
 
   else if(s=="BWWWWW")
